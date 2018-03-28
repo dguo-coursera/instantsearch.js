@@ -45,3 +45,6 @@ export {
   default as connectBreadcrumb,
 } from './breadcrumb/connectBreadcrumb.js';
 export { default as connectGeoSearch } from './geo-search/connectGeoSearch.js';
+export {
+  default as connectAutocomplete,
+} from './autocomplete/connectAutocomplete.js';
